@@ -2,8 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "Rizwan",
-      "email": "riz_rahmanuk@boohoo.co.uk"
+      "title": "Miss",
+      "email": "rizwana_rahmanuk@boohoo.co.uk"
+    },
+    {
+      "id": 2,
+      "title": "Mr",
+      "email": "riz_rahmanuk@hoohoo.co.uk"
     }
   ],
   "profile": {
